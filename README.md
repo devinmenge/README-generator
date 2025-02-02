@@ -1,8 +1,7 @@
-# undefined
+# README generator
 
 ## Description
-
-
+README generator with NodeJS
 
 ## Table of Contents
 
@@ -15,12 +14,10 @@ If your README is long, add a table of contents to make it easy for users to fin
 - [Tests](#Tests)
 
 ## Installation
-
-
+Run index.js with correct packages installed.
 
 ## Usage
-
-
+Answer prompts and README file will be created with proper template.
 
 ## License
 
